@@ -86,9 +86,9 @@ namespace Telemedicina.App.Persistencia
                  //   _appContext.SaveChanges();
                 //}
                 //return sintomaEncontrado;
-           // }
+            }
            //return null;
-         }
+         //}
     }
 }
   
